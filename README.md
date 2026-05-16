@@ -1,28 +1,38 @@
 # Hi, I’m Taza 👋
 
-I build practical automation systems, workflow tools, and AI-assisted operations that save time and keep teams moving.
+I build practical automation systems, workflow tooling, and AI-assisted operations that save time and keep teams moving.
 
-## What I work on
+## What I do
 
 - business automation and internal systems
 - n8n workflows and operational tooling
-- Airtable-driven workflows and data operations
+- Airtable-driven data and process workflows
 - GitHub, MCP, and agent-based tooling
-- lightweight, maintainable systems that are easy to run
+- lightweight systems that are easy to maintain
+
+## What I’m building
+
+I’m turning repeatable workspace work into polished, public-facing systems that are useful, credible, and low-touch.
+
+That includes:
+- a clean GitHub presence
+- reusable automation patterns
+- documented workflows others can adapt
+- curated repos that show real outcomes
 
 ## Current focus
 
-- building a polished GitHub presence
-- turning workspace work into useful public artefacts
-- improving automation around repeatable business tasks
-- keeping systems low-touch, reliable, and well-documented
+- building a strong public profile
+- improving automation around repeatable work
+- keeping systems simple, reliable, and well-documented
+- using agents to handle routine maintenance and suggestions
 
 ## Principles
 
 - clean structure over noise
 - automation with guardrails
 - practical outcomes over hype
-- clear documentation that others can reuse
+- documentation that is actually reusable
 
 ## Contact
 
