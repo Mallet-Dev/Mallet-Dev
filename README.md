@@ -12,6 +12,7 @@ I build practical automation systems, workflow tooling, and AI-assisted operatio
 
 ## Featured work
 
+- [auto-dream](https://github.com/Mallet-Builds/auto-dream) — memory consolidation daemon for SQLite
 - [Mallet-Dev](https://github.com/Mallet-Dev/Mallet-Dev) — public profile and showcase
 - Workspace automation and backup systems — in progress
 - Internal workflow tooling — ongoing
