@@ -10,6 +10,12 @@ I build practical automation systems, workflow tooling, and AI-assisted operatio
 - GitHub, MCP, and agent-based tooling
 - lightweight systems that are easy to maintain
 
+## Featured work
+
+- [Mallet-Dev](https://github.com/Mallet-Dev/Mallet-Dev) — public profile and showcase
+- Workspace automation and backup systems — in progress
+- Internal workflow tooling — ongoing
+
 ## What I’m building
 
 I’m turning repeatable workspace work into polished, public-facing systems that are useful, credible, and low-touch.
