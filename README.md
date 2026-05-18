@@ -10,13 +10,11 @@ I build practical automation systems, workflow tooling, and AI-assisted operatio
 - GitHub, MCP, and agent-based tooling
 - lightweight systems that are easy to maintain
 
-## Featured work
+## Featured public work
 
 - [auto-dream](https://github.com/Mallet-Builds/auto-dream) — Auto-Dream memory consolidation daemon for SQLite
 - [omni-video-mcp](https://github.com/Mallet-Builds/omni-video-mcp) — MCP-based video editing pipeline for agent-driven workflows
-- [Mallet-Dev](https://github.com/Mallet-Dev/Mallet-Dev) — public profile and showcase
-- Workspace automation and backup systems — in progress
-- Internal workflow tooling — ongoing
+- [Mallet-Builds](https://github.com/Mallet-Builds) — public automation and tooling repos
 
 ## What I’m building
 
