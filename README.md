@@ -12,7 +12,8 @@ I build practical automation systems, workflow tooling, and AI-assisted operatio
 
 ## Featured work
 
-- [auto-dream](https://github.com/Mallet-Builds/auto-dream) — memory consolidation daemon for SQLite
+- [auto-dream](https://github.com/Mallet-Builds/auto-dream) — Auto-Dream memory consolidation daemon for SQLite
+- [omni-video-mcp](https://github.com/Mallet-Builds/omni-video-mcp) — MCP-based video editing pipeline for agent-driven workflows
 - [Mallet-Dev](https://github.com/Mallet-Dev/Mallet-Dev) — public profile and showcase
 - Workspace automation and backup systems — in progress
 - Internal workflow tooling — ongoing
