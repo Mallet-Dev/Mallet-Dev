@@ -1,6 +1,6 @@
 # Hi, I’m Taza 👋
 
-I build practical automation systems, workflow tooling, and AI-assisted operations to save time and keep teams moving.
+I build practical automation systems, workflow tooling, and AI-assisted operations that save time and keep teams moving.
 
 ## What I do
 
@@ -12,7 +12,8 @@ I build practical automation systems, workflow tooling, and AI-assisted operatio
 
 ## Featured public work
 
-- [auto-dream](https://github.com/Mallet-Builds/auto-dream) — Auto-Dream memory consolidation daemon for SQLite
+- [omni-resume](https://github.com/Mallet-Builds/omni-resume) — Unified search and resume for coding-agent session history
+- [auto-dream](https://github.com/Mallet-Builds/auto-dream) — Background memory consolidation for AI agents
 - [omni-video-mcp](https://github.com/Mallet-Builds/omni-video-mcp) — MCP-based video editing pipeline for agent-driven workflows
 - [Mallet-Builds](https://github.com/Mallet-Builds) — public automation and tooling repos
 
